@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Producer Consumer</string>
+    <string name="add_consumer">Add Consumer</string>
+    <string name="add_producer">Add Producer</string>
+    <string name="producer_count">Producers Count: %d</string>
+    <string name="consumer_count">Consumers Count: %d</string>
+    <string name="item_count">Item Count: %d</string>
+</resources>
