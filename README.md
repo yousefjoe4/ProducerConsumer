@@ -1,4 +1,5 @@
-An android app which shows a list, two buttons below the list ordered horizontal, and 2 counters for the producers and consumers.
+An android app which shows a list, two buttons below the list ordered horizontal, and counters for the number of created producers and consumers.
+
 Clicking the left button creates a new producer.
 Clicking the right button creates a new consumer.
 
